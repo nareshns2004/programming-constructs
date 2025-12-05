@@ -3,5 +3,8 @@
  * [C](./C)
  * [C++](./C++)
  * [Java](./Java)
- * [JavaScript](./JavaScript)
+ * [Rust](./Rust)
+ * [Golang](./Golang)
  * [Python](./Python)
+ * [JavaScript](./JavaScript)
+ 
