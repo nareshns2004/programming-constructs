@@ -1,5 +1,0 @@
-# C Project
-
- * [MultiThreadedProxyServer](./MultiThreadedProxyServer)
-
-

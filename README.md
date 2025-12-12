@@ -1,8 +1,8 @@
-# Programming Languages Constructs
+# programming constructs
 
- * [C](./C)
- * [C++](./C++)
- * [Rust](./Rust)
- * [Golang](./Golang)
- * [Python](./Python)
+ * [c](./c)
+ * [c++](./c++)
+ * [rust](./rust)
+ * [golang](./golang)
+ * [python](./python)
  
